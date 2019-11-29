@@ -1,0 +1,23 @@
+site_name: Taura Laboratory
+nav:
+  - Home: index.md
+  - Access: access.md
+  - Members: members.md
+  - Research: research.md
+  - Papers: papers.md
+  - Code: code.md
+  - Misc: misc.md
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  language: ja
+extra:
+  search:
+    languages: 'en, ja'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - footnotes
