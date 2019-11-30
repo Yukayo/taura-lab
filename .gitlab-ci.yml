@@ -1,0 +1,24 @@
+image:
+  name: squidfunk/mkdocs-material
+  entrypoint: [""]
+
+stages:
+  - build
+  # - deploy
+
+
+build_site:
+  stage: build
+  script:
+    - mkdocs build
+
+# deploy_site:
+#   stage: deploy
+#   only:
+#     - master
+#   script:
+#     - which ssh-agent || apk --update add openssh-client
+#     - which rsync || apk --update add rsync
+#     - eval $(ssh-agent -s)
+#     - echo "$SSH_PRIVATE_KEY" | ssh-add
+#     - rsync -vzrl --del -e 'ssh -o StrictHostKeyChecking=no' site/ ?@www.eidos.ic.i.u-tokyo.ac.jp:/var/www/eidos/
