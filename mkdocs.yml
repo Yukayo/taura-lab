@@ -13,6 +13,8 @@ theme:
     primary: indigo
     accent: indigo
   language: ja
+  custom_dir: custom_theme
+  logo: img/logo.svg
 extra:
   search:
     languages: 'en, ja'
