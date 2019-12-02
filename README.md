@@ -1,7 +1,10 @@
 # Taura-Lab Website
 
-The Taura-lab website is built with [MkDocs](https://www.mkdocs.org/).
+[The Taura-lab website](https://www.eidos.ic.i.u-tokyo.ac.jp) is built with [MkDocs](https://www.mkdocs.org/).
 MkDocs generates static HTML files from the Markdown files in `docs/` directory.
+
+GitLab CI is configured so that a push to the master branch of this repository will automatically trigger an update of the website.
+If you want to edit/add/delete pages, you only have to edit/add/delete the Markdown files and push your changes to the master branch.
 
 ## Building the site
 
