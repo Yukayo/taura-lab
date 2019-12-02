@@ -1,4 +1,5 @@
 site_name: Taura Laboratory
+site_url: https://www.eidos.ic.i.u-tokyo.ac.jp
 nav:
   - Home: index.md
   - Access: access.md
