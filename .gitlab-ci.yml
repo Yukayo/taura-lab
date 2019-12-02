@@ -1,7 +1,3 @@
-image:
-  name: squidfunk/mkdocs-material
-  entrypoint: [""]
-
 stages:
   - build
   - deploy
@@ -9,6 +5,9 @@ stages:
 
 build_site:
   stage: build
+  image:
+    name: squidfunk/mkdocs-material
+    entrypoint: [""]
   script:
     - mkdocs build
   artifacts:
@@ -17,6 +16,7 @@ build_site:
 
 deploy_site:
   stage: deploy
+  image: alpine
   only:
     - master
   script:
