@@ -11,6 +11,9 @@ build_site:
   stage: build
   script:
     - mkdocs build
+  artifacts:
+    paths:
+      - site/
 
 deploy_site:
   stage: deploy
