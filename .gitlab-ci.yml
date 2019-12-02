@@ -4,7 +4,7 @@ image:
 
 stages:
   - build
-  # - deploy
+  - deploy
 
 
 build_site:
@@ -12,13 +12,13 @@ build_site:
   script:
     - mkdocs build
 
-# deploy_site:
-#   stage: deploy
-#   only:
-#     - master
-#   script:
-#     - which ssh-agent || apk --update add openssh-client
-#     - which rsync || apk --update add rsync
-#     - eval $(ssh-agent -s)
-#     - echo "$SSH_PRIVATE_KEY" | ssh-add -
-#     - rsync -vzrl --del -e 'ssh -o StrictHostKeyChecking=no' site/ ?@www.eidos.ic.i.u-tokyo.ac.jp:/var/www/eidos/
+deploy_site:
+  stage: deploy
+  only:
+    - master
+  script:
+    - which ssh-agent || apk --update add openssh-client
+    - which rsync || apk --update add rsync
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | ssh-add -
+    - rsync -vzrl --chown=gitlab-runner:gitlab-runner --del -e 'ssh -o StrictHostKeyChecking=no' site/ gitlab-runner@www.eidos.ic.i.u-tokyo.ac.jp:/var/www/eidos/
