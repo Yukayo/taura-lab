@@ -6,7 +6,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |---|---|---|---|---|
 |Professor|[Kenjiro TAURA](http://www.eidos.ic.i.u-tokyo.ac.jp/~tau/) |田浦 健次朗|tau|<img src="/img/Flag_of_Japan.png" height="20">|
 |Assistant Professor|[Shigeyuki SATO](http://www.eidos.ic.i.u-tokyo.ac.jp/~sato/) |佐藤 重幸|sato|<img src="/img/Flag_of_Japan.png" height="20">|
-|Project Researcher|Noboru TANABE|田邊 昇|tanabe|<img src="/img/Flag_of_Japan.png" height="20">|
+|Project Researcher|[Noboru TANABE](https://www.linkedin.com/in/noboru-tanabe-8014846a/)|田邊 昇|tanabe|<img src="/img/Flag_of_Japan.png" height="20">|
 |Secretary|Sachie IKEYA|池谷 幸絵|tausec|<img src="/img/Flag_of_Japan.png" height="20">|
 |Doctoral Course Student|Haruhiro YOSHIMOTO|吉本 晴洋|hy|<img src="/img/Flag_of_Japan.png" height="20">|
 |Doctoral Course Student|Christian HELM|ヘルム クリスティアン |christian|<img src="/img/Flag_of_German.png" height="20">|
