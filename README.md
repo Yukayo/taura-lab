@@ -25,3 +25,9 @@ Or you can preview the site as you are editing by running the following command 
 ```
 mkdocs preview
 ```
+
+or
+
+```
+mkdocs serve
+```
