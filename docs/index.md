@@ -9,9 +9,8 @@ Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml) of the
 Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [University of
 Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
 
-Our main expertise is on programming languages, system software, parallel
-computing, and distributed computing. We are especially interested in high
-level parallel processing software, which makes the power of high performance
+Our main expertise is on parallel computing, distributed computing, system software, and programming languages.
+We are especially interested in high level parallel processing software, which makes the power of high performance
 computers much more accessible to domain scientists.
 
   * [Introduction to the Laboratory (pdf)](http://www.eidos.ic.i.u-tokyo.ac.jp/labdocs/intros/2012/m_intro/taura_lab_2012e.pdf)
@@ -24,7 +23,7 @@ computers much more accessible to domain scientists.
 学部は, [工学部](http://www.t.u-tokyo.ac.jp/)，
 [電子情報工学科](http://www.ee.t.u-tokyo.ac.jp/j/)になります.
 
-主な研究分野はプログラミング言語，システムソフトウェア，並列処理, 分散処理などです. 特に，並列処理を高水準に行うためのソフトウェアに重点をおき,
+主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです. 特に，並列処理を高水準に行うためのソフトウェアに重点をおき,
 より多くの分野研究者に高性能並列計算機の力を提供することを目指しています.
 
 **新入生向け研究テーマ紹介は[こちら](新4年生向紹介文.md)．**
