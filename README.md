@@ -23,11 +23,5 @@ mkdocs build
 Or you can preview the site as you are editing by running the following command and accessing <http://127.0.0.1:8000/>:
 
 ```
-mkdocs preview
-```
-
-or
-
-```
 mkdocs serve
 ```
