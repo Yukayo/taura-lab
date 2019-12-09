@@ -4,10 +4,10 @@
 
 Taura laboratory is a research laboratory in the [Department of Information
 and Communication
-Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml) of the
+Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml) of the
 [Graduate School of Information Science and
-Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [University of
-Tokyo](http://www.u-tokyo.ac.jp/index_e.html).
+Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [University of
+Tokyo](https://www.u-tokyo.ac.jp/index_e.html).
 
 Our main expertise is on parallel computing, distributed computing, system software, and programming languages.
 We are especially interested in high level parallel processing software, which makes the power of high performance
@@ -17,11 +17,11 @@ computers much more accessible to domain scientists.
 
 ## 概要
 
-田浦研究室は， [東京大学](http://www.u-tokyo.ac.jp/),
-[情報理工学系研究科](http://www.i.u-tokyo.ac.jp/),
-[電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 所属の研究室です.
-学部は, [工学部](http://www.t.u-tokyo.ac.jp/)，
-[電子情報工学科](http://www.ee.t.u-tokyo.ac.jp/j/)になります.
+田浦研究室は， [東京大学](https://www.u-tokyo.ac.jp/),
+[情報理工学系研究科](https://www.i.u-tokyo.ac.jp/),
+[電子情報学専攻](https://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 所属の研究室です.
+学部は, [工学部](https://www.t.u-tokyo.ac.jp/)，
+[電子情報工学科](https://www.ee.t.u-tokyo.ac.jp/j/)になります.
 
 主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです. 特に，並列処理を高水準に行うためのソフトウェアに重点をおき,
 より多くの分野研究者に高性能並列計算機の力を提供することを目指しています.
@@ -38,10 +38,10 @@ computers much more accessible to domain scientists.
 
 ## News (ニュース)
 
-  * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](http://pactconf.org/).) 
-  * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](http://pactconf.org/).) 
+  * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).) 
+  * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](https://pactconf.org/).) 
   * 2019 Aug. 6: 修士課程 椎名峻平らの論文 "Almost Deterministic Work Stealing" が [SC 2019](https://sc19.supercomputing.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [SC 2019](https://sc19.supercomputing.org/)) 
-  * 2019 Jul. 9: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)に採択されました．(A paper by Shintaro Iwasaki et al. has been accepted by [PACT 2019](http://pactconf.org/).) 
+  * 2019 Jul. 9: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)に採択されました．(A paper by Shintaro Iwasaki et al. has been accepted by [PACT 2019](https://pactconf.org/).) 
   * 2019 May. 16: 修士課程 福岡拓也らの論文 "An Efficient Inter-node Communication System with Lightweight-thread Scheduling" が [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/)) 
   * 2019 Mar. 26: 卒論生 椎名峻平の卒業論文 "Almost Deterministic Scheduling for Dynamic Task Parallelism (動的なタスク並列性に対するほぼ決定的な負荷分散手法)" が，電子情報工学科 優秀卒論賞に選ばれました． 
   * 2019 Mar. 13: 卒論生 福岡拓也らの論文 "An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling" が[xSIG 2019](http://xsig.hpcc.jp/2019/)にてBest Undergraduate Student Awardを受賞しました． (Takuya Fukuoka et al. won Best Undergraduate Student Award in [xSIG 2019](http://xsig.hpcc.jp/2019/)) 
@@ -55,11 +55,11 @@ computers much more accessible to domain scientists.
 ## A Short History
 
 It will become a standalone group from spring 2012, until which it is a part
-of [Chikayama-Taura Laboratory](http://www.logos.ic.i.u-tokyo.ac.jp/wiki-en/).
+of [Chikayama-Taura Laboratory](https://www.logos.t.u-tokyo.ac.jp/).
 We will continue to closely collaborate with the new Chikayama-Tsuruoka
 laboratory.
 
 ## 沿革
 
-2012年春より， [近山・田浦研究室](http://www.logos.ic.i.u-tokyo.ac.jp/wiki-ja/) より分離独立します.
+2012年春より， [近山・田浦研究室](https://www.logos.t.u-tokyo.ac.jp/index-jp.html) より分離独立します.
 近山・田浦研究室あらため近山・鶴岡研究室となる, 同研究室とは今後も密に協力をして行くことになると思います.

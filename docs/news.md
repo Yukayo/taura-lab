@@ -1,9 +1,9 @@
 # News since 2014 Nov. (ニュース)
 
-  * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](http://pactconf.org/).) 
-  * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](http://pactconf.org/).) 
+  * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).) 
+  * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](https://pactconf.org/).) 
   * 2019 Aug. 6: 修士課程 椎名峻平らの論文 "Almost Deterministic Work Stealing" が [SC 2019](https://sc19.supercomputing.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [SC 2019](https://sc19.supercomputing.org/)) 
-  * 2019 Jul. 9: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](http://pactconf.org/)に採択されました．(A paper by Shintaro Iwasaki et al. has been accepted by [PACT 2019](http://pactconf.org/).) 
+  * 2019 Jul. 9: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)に採択されました．(A paper by Shintaro Iwasaki et al. has been accepted by [PACT 2019](https://pactconf.org/).) 
   * 2019 May. 16: 修士課程 福岡拓也らの論文 "An Efficient Inter-node Communication System with Lightweight-thread Scheduling" が [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/)) 
   * 2019 Mar. 26: 卒論生 椎名峻平の卒業論文 "Almost Deterministic Scheduling for Dynamic Task Parallelism (動的なタスク並列性に対するほぼ決定的な負荷分散手法)" が，電子情報工学科 優秀卒論賞に選ばれました． 
   * 2019 Mar. 13: 卒論生 福岡拓也らの論文 "An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling" が[xSIG 2019](http://xsig.hpcc.jp/2019/)にてBest Undergraduate Student Awardを受賞しました． (Takuya Fukuoka et al. won Best Undergraduate Student Award in [xSIG 2019](http://xsig.hpcc.jp/2019/)) 

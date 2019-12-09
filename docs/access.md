@@ -13,15 +13,15 @@ University of Tokyo
 
 Faculty of Engineering Building #2 in Hongo Campus, University of Tokyo
 
-  * [Hongo Campus Map](http://www.u-tokyo.ac.jp/campusmap/cam01_04_03_j.html)
-  * Go [Google Maps](http://maps.google.com/maps?q=loc:35.714409,+139.761626&z=16)
+  * [Hongo Campus Map](https://www.u-tokyo.ac.jp/campusmap/cam01_04_03_j.html)
+  * Go [Google Maps](https://www.google.com/maps?q=loc:35.714409,+139.761626&z=16)
   * The Faculty of Engineering Building #2 is near from a number of subway stations. Here are stations and the suggested gate to enter the campus from. 
     * Nezu (C14; Chiyoda Line) → Yayoi gate (弥生門) 
     * Hongo-sanchome (E08/M21; Oedo Line/Marunouchi Line) → Main gate (正門) 
     * Todaimae (N12; Namboku Line) → Nishikata gate (西片門) 
     * Kasuga (I12/E07; Mita Line/Oedo Line). Use A6 exit → Main gate (正門) 
-  * [Directions from subway stations](http://g.co/maps/kar8e)
-  * [Subway Map](http://www.tokyometro.jp/en/subwaymap/index.html)
+  * [Directions from subway stations](https://g.co/maps/kar8e)
+  * [Subway Map](https://www.tokyometro.jp/en/subwaymap/index.html)
 
 
 ## アクセス

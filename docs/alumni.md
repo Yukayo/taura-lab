@@ -4,7 +4,7 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Doctoral Course Student|[Shigeki AKIYAMA](http://www.eidos.ic.i.u-tokyo.ac.jp/~akiyama/)|秋山 茂樹|akiyama|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
+|Doctoral Course Student|[Shigeki AKIYAMA](https://www.eidos.ic.i.u-tokyo.ac.jp/~akiyama/)|秋山 茂樹|akiyama|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Hiroka IHARA|井原 央翔|ihara|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Hiroki NAKAZAWA|中澤 弘樹|hnakazawa|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Satish Kumar JAISWAL|ジャスワル　サティシュ　クマル|ictish|<img src="/img/Flag_of_Nepal.png" height="20" alt="Flag_of_Nepal">|
@@ -14,7 +14,7 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Doctoral Course Student|[An HUYNH](http://www.eidos.ic.i.u-tokyo.ac.jp/~huynh)|フィン　ゴクアン|huynh|<img src="/img/Flag_of_Vietnam.png" height="20" alt="Flag_of_Vietnam">|
+|Doctoral Course Student|[An HUYNH](https://www.eidos.ic.i.u-tokyo.ac.jp/~huynh/)|フィン　ゴクアン|huynh|<img src="/img/Flag_of_Vietnam.png" height="20" alt="Flag_of_Vietnam">|
 |Master Course Student|Masaru ITO|伊藤 大|mito|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Yusuke TOKUNAGA|徳永 裕介|ytoku|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Kouhei TOSHIMITSU|利光 宏平|toshimitsu|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
@@ -28,7 +28,7 @@
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
 |Special Research Student|Yang TIAN|田 楊|yang|<img src="/img/Flag_of_the_Peoples_Republic_of_China.png" height="20" alt="Flag_of_the_Peoples_Republic_of_China">|
-|Doctoral Course Student|[Jun NAKASHIMA](http://www.eidos.ic.i.u-tokyo.ac.jp/~nakashima/)|中島 潤|nakashima|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
+|Doctoral Course Student|[Jun NAKASHIMA](https://www.eidos.ic.i.u-tokyo.ac.jp/~nakashima/)|中島 潤|nakashima|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Byambajav NAMSRAIJAV|ナムスライジャブ　ビャンバジャブ|byambajav|<img src="/img/Flag_of_Mongolia.png" height="20" alt="Flag_of_Mongolia">|
 |Undergraduate Student|Tomohiro EGUCHI|江口 知弘|etguchi|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Undergraduate Student|Kazuhiko YASUDA|保田 和彦|yasuda|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
@@ -37,8 +37,8 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Postdoctoral Researcher|[Shigeyuki SATO](http://www.eidos.ic.i.u-tokyo.ac.jp/~sato/)|佐藤 重幸|sato|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
-|Doctoral Course Student|[Hiroshi INOUE](http://researcher.ibm.com/researcher/view.php?person=jp-INOUEHRS)|井上 拓|inoue|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
+|Postdoctoral Researcher|[Shigeyuki SATO](https://www.eidos.ic.i.u-tokyo.ac.jp/~sato/)|佐藤 重幸|sato|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
+|Doctoral Course Student|[Hiroshi INOUE](https://researcher.ibm.com/researcher/view.php?person=jp-INOUEHRS)|井上 拓|inoue|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Makoto SHIMAZU|島津 真人|shimazu|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Yoshirou YAMABE|山部 芳朗|yamabe|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
 |Master Course Student|Yasutaka ISHIKAWA|石川 康貴|ishikawa|<img src="/img/Flag_of_Japan.png" height="20" alt="Flag_of_Japan">|
