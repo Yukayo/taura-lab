@@ -13,7 +13,7 @@ Our main expertise is on parallel computing, distributed computing, system softw
 We are especially interested in high level parallel processing software, which makes the power of high performance
 computers much more accessible to domain scientists.
 
-  * [Introduction to the Laboratory (pdf)](http://www.eidos.ic.i.u-tokyo.ac.jp/labdocs/intros/2012/m_intro/taura_lab_2012e.pdf)
+  * [Introduction to the Laboratory (pdf)](files/intro_e.pdf)
 
 ## 概要
 
