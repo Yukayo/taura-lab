@@ -10,6 +10,6 @@ professor's initial letter. In my case, it would have been 'tl' (for 't'aura
 
 Our domain name 'xxx' is a greek philosophical word meaning 'yyy'. The choice
 of this particular word is somewhat arbitrary :-), but it was determined by
-discussion and voting from the initial members of the laboratory. [Here](http
-://enq-maker.com/result/glZR3vG) you can trace it :-)
+discussion and voting from the initial members of the laboratory.
+[Here](http://enq-maker.com/result/glZR3vG) you can trace it :-)
 
