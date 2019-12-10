@@ -1,5 +1,4 @@
-# Emails forwarding to Gmail got significantly delayed, and here is what
-happened (and is still happening)
+# Emails forwarding to Gmail got significantly delayed, and here is what happened (and is still happening)
 
 written by Taura
 
