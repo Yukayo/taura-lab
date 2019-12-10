@@ -24,3 +24,5 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
   - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
