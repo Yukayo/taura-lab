@@ -1,6 +1,6 @@
 # Code
 
-As a research group working on system softawre, we have a great deal of
+As a research group working on system software, we have a great deal of
 interest in publishing open source software, both as a research output and for
 making everybody's research more efficient. We will be adding more in future.
 
