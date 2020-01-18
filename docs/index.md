@@ -53,14 +53,3 @@ computers much more accessible to domain scientists.
 
 [See more](news.md)
 
-## A Short History
-
-It will become a standalone group from spring 2012, until which it is a part
-of [Chikayama-Taura Laboratory](https://www.logos.t.u-tokyo.ac.jp/).
-We will continue to closely collaborate with the new Chikayama-Tsuruoka
-laboratory.
-
-## 沿革
-
-2012年春より， [近山・田浦研究室](https://www.logos.t.u-tokyo.ac.jp/index-jp.html) より分離独立します.
-近山・田浦研究室あらため近山・鶴岡研究室となる, 同研究室とは今後も密に協力をして行くことになると思います.
