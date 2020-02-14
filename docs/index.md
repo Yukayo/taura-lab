@@ -38,6 +38,7 @@ computers much more accessible to domain scientists.
 
 ## News (ニュース)
 
+  * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html)) 
   * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).) 
   * 2019 Aug. 11: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paper候補(4件)に選ばれました．(A paper by Shintaro Iwasaki et al. is nominated as one of the four best paper candidates in [PACT 2019](https://pactconf.org/).) 
