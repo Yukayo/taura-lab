@@ -1,4 +1,15 @@
 # Taura Laboratory's Alumni
+## 2020 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Doctoral Course Student|[Wataru ENDO](https://endowataru.github.io/) |遠藤 亘|wendo|:jp:|
+|Doctoral Course Student|[Shintaro IWASAKI](https://www.eidos.ic.i.u-tokyo.ac.jp/~iwasaki/index.htm) |岩崎 慎太郎|iwasaki|:jp:|
+|Master Course Student|Tomokazu HIGUCHI|樋口 兼一|thiguchi|:jp:|
+|Master Course Student|Qiheng LIU|リュウ ケイコウ |kko|:cn:|
+|Master Course Student|Zhehao LI|李 哲豪 |lizhehao|:cn:|
+|Undergraduate Student|Hayato WATAHIKI|綿引 隼人 |watahiki|:jp:|
+|Undergraduate Student|Yuya KATO|加藤 勇哉 |kato|:jp:|
 
 ## 2019 spring
 
