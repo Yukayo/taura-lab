@@ -23,6 +23,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Research Student|Haoyue TAN|譚 皓月|tan|:cn:|
 |Research Student|Boming YANG|楊 博銘|boming|:cn:|
 |Undergraduate Student|Nozomi ISOZAKI|磯崎 希 |isozaki |:jp:|
+|Undergraduate Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
 
 ## Past Members
 
