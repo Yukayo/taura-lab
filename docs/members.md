@@ -25,6 +25,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Undergraduate Student|Nozomi ISOZAKI|磯崎 希 |isozaki |:jp:|
 |Undergraduate Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
 |Undergraduate Student|Shugo FUJIMURA|藤村 柊吾|shugo256|:jp:|
+|Undergraduate Student|Genki KIMURA|木村 元紀|kimura|:jp:|
 
 ## Past Members
 
