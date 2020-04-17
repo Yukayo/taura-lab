@@ -19,7 +19,6 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Takumi ONUKI|大貫 匠 |onuki |:jp:|
 |Master Course Student|Taisei TAKAHASHI|高橋 大成 |takahashi|:jp:|
 |Master Course Student|Shogo MATSUDA|松田 翔吾 |matsuda|:jp:|
-|Research Student|Tianhao GE|葛 天浩|tianhao|:cn:|
 |Research Student|Haoyue TAN|譚 皓月|tan|:cn:|
 |Research Student|Boming YANG|楊 博銘|boming|:cn:|
 |Undergraduate Student|Nozomi ISOZAKI|磯崎 希 |isozaki |:jp:|
