@@ -26,12 +26,10 @@ computers much more accessible to domain scientists.
 主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです. 特に，並列処理を高水準に行うためのソフトウェアに重点をおき,
 より多くの分野研究者に高性能並列計算機の力を提供することを目指しています.
 
-**新入生向け研究テーマ紹介は[こちら](新4年生向紹介文.md)．**
-
-  * Recent research topics can be viewed [here](research.md). 最近の研究は[こちら](research.md)． 
-
+  * [研究室紹介](lab_introduction.md)．
+  * [最近の研究](research.md)． [Recent research topics](research.md). 
   * [2019年11月27日3年生向け紹介](紹介3年生2019.md)
-  * [研究室紹介(pdf)](files/intro.pdf "研究室紹介\(pdf\)")
+  * [研究室紹介ポスター(pdf)](files/intro.pdf "研究室紹介\(pdf\)")
   * [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 東大[学内広報 no. 1499 2017.8](https://www.u-tokyo.ac.jp/ja/about/public-relations/kouhou2017.html)に書いたカラム[「車輪の再発明と研究者の幸せ(最終ページ)」](https://www.u-tokyo.ac.jp/content/400067376.pdf). 技術的なことは抜きにして研究についての考え. 
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
