@@ -29,7 +29,7 @@ computers much more accessible to domain scientists.
   * [研究室紹介](lab_introduction.md)．
   * [最近の研究](research.md)． [Recent research topics](research.md). 
   * [2019年11月27日3年生向け紹介](紹介3年生2019.md)
-  * [研究室紹介ポスター(pdf)](files/intro.pdf "研究室紹介\(pdf\)")
+  * [入試案内用研究室紹介(pdf)](files/intro.pdf "入試案内用研究室紹介\(pdf\)")
   * [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 東大[学内広報 no. 1499 2017.8](https://www.u-tokyo.ac.jp/ja/about/public-relations/kouhou2017.html)に書いたカラム[「車輪の再発明と研究者の幸せ(最終ページ)」](https://www.u-tokyo.ac.jp/content/400067376.pdf). 技術的なことは抜きにして研究についての考え. 
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
