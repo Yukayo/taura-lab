@@ -13,7 +13,6 @@ Our main expertise is on parallel computing, distributed computing, system softw
 We are especially interested in high level parallel processing software, which makes the power of high performance
 computers much more accessible to domain scientists.
 
-  * [Introduction to the Laboratory (pdf)](files/intro_e.pdf)
 
 ## 概要
 
@@ -27,7 +26,7 @@ computers much more accessible to domain scientists.
 より多くの分野研究者に高性能並列計算機の力を提供することを目指しています.
 
   * 2020/5/23 [研究室紹介](lab_introduction.md)．
-  * 2020/5/23 [入試案内用研究室紹介(pdf)](files/intro.pdf "入試案内用研究室紹介\(pdf\)")
+  * 2020/5/23 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
   * [最近の研究](research.md)． [Recent research topics](research.md). 
   * 2020/1/6 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019.md)
