@@ -1,6 +1,6 @@
 # News since 2014 Nov. (ニュース)
 
-  * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
+  * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
   * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html)) 
   * 2019 Sep. 24: 博士課程 岩崎慎太郎らの論文 "BOLT: Optimizing OpenMP Parallel Regions with User-Level Threads" が[PACT 2019](https://pactconf.org/)でBest Paperに選ばれました．(A paper by Shintaro Iwasaki et al. won the Best Paper Award in [PACT 2019](https://pactconf.org/).) 
