@@ -1,6 +1,6 @@
 # Taura Laboratory
 
-## Overview
+## Overview (概要)
 
 Taura laboratory is a research laboratory in the [Department of Information
 and Communication
@@ -13,8 +13,6 @@ Our main expertise is on parallel computing, distributed computing, system softw
 We are especially interested in high level parallel processing software, which makes the power of high performance
 computers much more accessible to domain scientists.
 
-
-## 概要
 
 田浦研究室は， [東京大学](https://www.u-tokyo.ac.jp/) 
 [情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) 
