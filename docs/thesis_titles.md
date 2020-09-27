@@ -1,14 +1,14 @@
 
 # 3000
 
-|名前|学位|題目|
+|学位|名前|題目|
 |---|---|:---|
-|中澤 弘樹|修士|ハイパバイザにより低レイテンシ SSD と DRAM を統合した擬似メモリの高速化 <br> Speeding Up Pseudo-Memory with DRAM and Low Latency SSD by Hypervisor|
-|井原 央翔|修士|スキャナレス LL(\*) 文法に基づく高性能文字列処理 <br> High-Performance Text Processing based on Scannerless LL(*) Grammar|
-|ジャスワル サティシュ クマル|修士|深層学習における損失関数のヘッセ行列の外れ固有値:ミニバッチサイズの影響について <br> Outlier Eigenvalues of the Hessian of Loss Function in Deep Neural Network: Effect of Mini-batch Size|
-|椎名 峻平|学士|動的なタスク並列性に対するほぼ決定的な負荷分散手法 <br> Almost Deterministic Scheduling for Dynamic Task Parallelism |
-|福岡 拓也|学士|効率的な軽量スレッドスケジューリングによるノード間通信システムの実装 <br> An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling|
-|白木 光達|学士|不正通信検知を迂回可能な IEEE 802.11 上の情報漏洩攻撃とその検知手法|
+|修士|中澤 弘樹|ハイパバイザにより低レイテンシ SSD と DRAM を統合した擬似メモリの高速化 <br> Speeding Up Pseudo-Memory with DRAM and Low Latency SSD by Hypervisor|
+|修士|井原 央翔|スキャナレス LL(\*) 文法に基づく高性能文字列処理 <br> High-Performance Text Processing based on Scannerless LL(*) Grammar|
+|修士|ジャスワル サティシュ クマル|深層学習における損失関数のヘッセ行列の外れ固有値:ミニバッチサイズの影響について <br> Outlier Eigenvalues of the Hessian of Loss Function in Deep Neural Network: Effect of Mini-batch Size|
+|学士|椎名 峻平|動的なタスク並列性に対するほぼ決定的な負荷分散手法 <br> Almost Deterministic Scheduling for Dynamic Task Parallelism |
+|学士|福岡 拓也|効率的な軽量スレッドスケジューリングによるノード間通信システムの実装 <br> An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling|
+|学士|白木 光達|不正通信検知を迂回可能な IEEE 802.11 上の情報漏洩攻撃とその検知手法|
 
 # 2019
 
