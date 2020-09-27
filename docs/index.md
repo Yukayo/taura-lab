@@ -34,9 +34,9 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
-
+  * 2020 Sep. 16: 博士課程 クリスティアン ヘルムらの論文 "Reliable Reverse Engineering of Intel DRAM Addressing Using Performance Counters" が [MASCOTS 2020](http://mascots.iitis.pl/) に採択されました． (A paper by Christian Helm et al. has been accepted by [MASCOTS 2020](http://mascots.iitis.pl/)) 
   * 2020 Aug. 28: 修士課程 福岡拓也らの研究 "Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand" が[第150回OS研究会（SWoPP 2020）](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1)にて最優秀若手発表賞を受賞しました．
-  * 2020 Jul. 28: 井原央翔の修士研究の仕事 "Centaurus: A Dynamic Parser Generator for Parallel Ad Hoc Data Extraction" がIPSJ Transactions on Programming Vol.13 No.4に採択されました．
+  * 2020 Jul. 28: 卒業生 井原央翔の修士研究の仕事 "Centaurus: A Dynamic Parser Generator for Parallel Ad Hoc Data Extraction" がIPSJ Transactions on Programming Vol.13 No.4に採択されました．
   * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
   * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html)) 
@@ -52,5 +52,5 @@ computers much more accessible to domain scientists.
   * 2019 Mar. 01: 博士課程 クリスティアン ヘルムらの論文 "PerfMemPlus: A Tool for Automatic Discovery of Memory Performance Problems" が [ISC High Performance 2019](https://www.isc-hpc.com/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ISC High Performance 2019](https://www.isc-hpc.com/)) 
   * 2018 Dec. 21: [ポスドク研究員募集](posdoc_nedo_2018.md)
 
-[See more](news.md)
+[See older](news.md)
 
