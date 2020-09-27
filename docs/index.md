@@ -16,14 +16,14 @@ computers much more accessible to domain scientists.
 
 ## 概要
 
-田浦研究室は， [東京大学](https://www.u-tokyo.ac.jp/),
-[情報理工学系研究科](https://www.i.u-tokyo.ac.jp/),
-[電子情報学専攻](https://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 所属の研究室です.
-学部は, [工学部](https://www.t.u-tokyo.ac.jp/)，
-[電子情報工学科](https://www.ee.t.u-tokyo.ac.jp/j/)になります.
+田浦研究室は， [東京大学](https://www.u-tokyo.ac.jp/) 
+[情報理工学系研究科](https://www.i.u-tokyo.ac.jp/) 
+[電子情報学専攻](https://www.i.u-tokyo.ac.jp/edu/course/ice/index.html) 所属の研究室です．
+学部は，[工学部](https://www.t.u-tokyo.ac.jp/) 
+[電子情報工学科](https://www.ee.t.u-tokyo.ac.jp/j/)になります．
 
-主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです. 特に，並列処理を高水準に行うためのソフトウェアに重点をおき,
-より多くの分野研究者に高性能並列計算機の力を提供することを目指しています.
+主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです．
+特に，並列処理を高水準に行うためのソフトウェアに重点をおき，より多くの分野研究者に高性能並列計算機の力を提供することを目指しています．
 
   * 2020/5/23 [研究室紹介](lab_introduction.md)．
   * 2020/5/23 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
