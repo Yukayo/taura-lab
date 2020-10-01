@@ -1,8 +1,17 @@
 # Taura Laboratory's Alumni
+## 2020 winter
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Doctoral Course Student|Christian HELM|ヘルム クリスティアン |christian|:de:|
+|Research Student|Haoyue TAN|譚 皓月|tan|:cn:|
+|Research Student|Boming YANG|楊 博銘|boming|:cn:|
+
 ## 2020 spring
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
+|Doctoral Course Student|Haruhiro YOSHIMOTO|吉本 晴洋|hy|:jp:|
 |Doctoral Course Student|[Wataru ENDO](https://endowataru.github.io/) |遠藤 亘|wendo|:jp:|
 |Doctoral Course Student|[Shintaro IWASAKI](https://www.eidos.ic.i.u-tokyo.ac.jp/~iwasaki/index.htm) |岩崎 慎太郎|iwasaki|:jp:|
 |Master Course Student|Tomokazu HIGUCHI|樋口 兼一|thiguchi|:jp:|
@@ -20,6 +29,7 @@
 |Master Course Student|Hiroki NAKAZAWA|中澤 弘樹|hnakazawa|:jp:|
 |Master Course Student|Satish Kumar JAISWAL|ジャスワル　サティシュ　クマル|ictish|:np:|
 |Undergraduate Student|Kotatsu SHIRAKI|白木 光達|shiraki|:jp:|
+|Undergraduate Student|Nozomi ISOZAKI|磯崎 希 |isozaki |:jp:|
 
 ## 2018 spring
 
