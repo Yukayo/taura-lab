@@ -32,6 +32,7 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
+  * 2020 Oct. 2: 卒業生 遠藤亘の博士研究の仕事 "MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA" が[IPDRM 2020](https://ipdrm.github.io/)に採択されました．(A paper by Wataru Endo et al. got accepted for [IPDRM 2020](https://ipdrm.github.io/).)
   * 2020 Sep. 25: 博士課程 クリスティアン ヘルムが博士号を取得して卒業しました． (Christian Helm received a doctor's degree.) 
   * 2020 Sep. 16: 博士課程 クリスティアン ヘルムらの論文 "Reliable Reverse Engineering of Intel DRAM Addressing Using Performance Counters" が [MASCOTS 2020](http://mascots.iitis.pl/) に採択されました． (A paper by Christian Helm et al. has been accepted by [MASCOTS 2020](http://mascots.iitis.pl/)) 
   * 2020 Aug. 28: 修士課程 福岡拓也らの研究 "Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand" が[第150回OS研究会（SWoPP 2020）](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1)にて最優秀若手発表賞を受賞しました．
