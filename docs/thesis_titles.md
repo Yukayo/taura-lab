@@ -1,8 +1,21 @@
+# 2020
+
+|学位|名前|題目|
+|---|---|:---|
+|博士|クリスティアン ヘルム|命令サンプリングによるメモリ性能問題の検出手法 <br> Discovery of Memory Performance Problems Using Hardware Instruction Sampling|
+|修士|椎名 峻平|ネストした並列プログラムに対する効率的なスレッドスケジューリング手法 <br> Efficient Thread Scheduling Strategies for Nested Parallel Programs|
+|修士|福岡 拓也|InfiniBandのオンデマンドページングの性能問題の発見と分析 <br> Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand|
+|修士|山口 龍太郎|長距離広帯域通信路におけるリモートストレージインターフェース構築に向けたOpenSSH のネットワーク性能高速化 <br> Improving Network Performance of OpenSSH for Remote Storage Interface for Long Fat Networks|
+|学士|秀島 宇音|MPI-3 RMA上のページベース分散共有メモリの性能解析|
+|学士|藤村 柊吾|スケーラブルな分散メモリ向けハイパーグラフ処理系|
+|学士|木村 元紀|実用的な並行Cプログラム向けモデル検査器の開発|
+|学士|役山 真柊|GPU を用いたハイパーグラフ処理|
+
 # 2019
 
 |学位|名前|題目|
 |---|---|:---|
-|博士|岩崎慎太郎|細粒度並列プログラムを効率的に実行する軽量なスレッド処理系 <br> Exploring Lightweight User-level Threading Frameworks for Massive Fine-Grained Parallelism|
+|博士|岩崎 慎太郎|細粒度並列プログラムを効率的に実行する軽量なスレッド処理系 <br> Exploring Lightweight User-level Threading Frameworks for Massive Fine-Grained Parallelism|
 |博士|遠藤 亘|ソフトウェア分散共有メモリの非集中型実装 <br> A Decentralized Implementation of Software Distributed Shared Memory|
 |修士|樋口 兼一|マルチコア CPU に向けた 深層学習フレームワークの高速化 <br> Optimizations of Deep Learning Framework for Multi-core CPU|
 |修士|劉 啓恒|OPG に基づくアドホックな大規模文字列データ解析のための並列データ処理系 <br> A Parallel Data Processing System for Large Text Data based on OPG|
