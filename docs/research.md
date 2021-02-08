@@ -1,4 +1,7 @@
 # Introduction to Our Research Topics (研究紹介)
+最近の学位論文の題名一覧は[こちら](thesis_titles.md)を見てください. 
+
+You can see recent thesis titles [here](thesis_titles.md).
 
 ## High-Level, High-Performance General-Purpose Programming Frameworks
 
