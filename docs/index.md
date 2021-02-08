@@ -32,6 +32,7 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
+  * 2021 Feb. 8: 修士課程 福岡拓也らの論文 "Pitfalls of InfiniBand with On-Demand Paging" が [ISPASS 2021](https://www.ispass.org/ispass2021/) に採択されました． (A paper by Takuya Fukuoka et al. has been accepted by [ISPASS 2021](https://www.ispass.org/ispass2021/))
   * 2020 Dec. 11: 博士課程 李楽らの論文 "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning" が [IPDPS 2021](https://www.ipdps.org/) に採択されました． (A paper by Le Li et al. has been accepted by [IPDPS 2021](https://www.ipdps.org/))
   * 2020 Nov. 17: 修士課程 椎名峻平らの論文 "Lightweight Preemptive User-Level Threads" が [PPoPP 2021](https://ppopp21.sigplan.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [PPoPP 2021](https://ppopp21.sigplan.org/)) 
   * 2020 Oct. 2: 卒業生 遠藤亘の博士研究の仕事 "MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA" が[IPDRM 2020](https://ipdrm.github.io/)に採択されました．(A paper by Wataru Endo et al. got accepted for [IPDRM 2020](https://ipdrm.github.io/).)
