@@ -1,4 +1,13 @@
 # Taura Laboratory's Alumni
+## 2021 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Master Course Student|[Takuya FUKUOKA](https://tkygtr6.github.io/)|福岡 拓也 |fukuoka |:jp:|
+|Master Course Student|Ryutaro YAMAGUCHI|山口 龍太郎|yamaguchi|:jp:|
+|Undergraduate Student|Shugo FUJIMURA|藤村 柊吾|shugo256|:jp:|
+|Undergraduate Student|Genki KIMURA|木村 元紀|kimura|:jp:|
+
 ## 2020 winter
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
