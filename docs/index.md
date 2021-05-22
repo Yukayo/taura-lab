@@ -23,10 +23,16 @@ computers much more accessible to domain scientists.
 主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです．
 特に，並列処理を高水準に行うためのソフトウェアに重点をおき，より多くの分野研究者に高性能並列計算機の力を提供することを目指しています．
 
-  * 2020/5/23 [研究室紹介](lab_introduction.md)．
-  * 2020/5/23 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
+  * 2021/5/22 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
+  * 2021/5/22 [テーマ概要紹介](lab_introduction.md)．
+    * [Lab Intro + parallel string processing demo (English)](https://drive.google.com/file/d/1V8PYSbq0SOlp2tXjUBQPr-m0Bnzv29K5/view?usp=sharing)
+    * [並列処理紹介ビデオ(Japanese)](https://drive.google.com/file/d/1JGpnre6zVVJcL_qAw--oFpe3d-9UFCUP/view?usp=sharing)
+  * 2021/5/22 Recent conference talks
+    * [Load balancing method](https://drive.google.com/file/d/1YAsx-E0j3iJ6PmFoJXuOmHBMKY73hvNq/view?usp=sharing) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
+    * [Parallel lexing (string processing)](https://drive.google.com/file/d/1hZ84yVs0xsSSwx_M1u8RIdD5hS9JH8NX/view?usp=sharing) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
+    * [Performance of Infiniband](https://drive.google.com/file/d/1qKIN-e5d-wIJzyE-eyWWkIawK-XlE_Xy/view?usp=sharing) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka
   * [最近の研究](research.md)． [Recent research topics](research.md). 
-  * 2020/1/6 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
+  * 2021/1/5 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019.md)
   * 東大[学内広報 no. 1499 2017.8](https://www.u-tokyo.ac.jp/ja/about/public-relations/kouhou2017.html)に書いたカラム[「車輪の再発明と研究者の幸せ(最終ページ)」](https://www.u-tokyo.ac.jp/content/400067376.pdf). 技術的なことは抜きにして研究についての考え. 
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
