@@ -24,6 +24,7 @@ computers much more accessible to domain scientists.
 特に，並列処理を高水準に行うためのソフトウェアに重点をおき，より多くの分野研究者に高性能並列計算機の力を提供することを目指しています．
 
   * 2021/5/22 Google "Taura lab" or visit [https://www.eidos.ic.i.u-tokyo.ac.jp/](https://www.eidos.ic.i.u-tokyo.ac.jp/)
+    * [あいさつ] (https://youtu.be/XDA-Qe65nCA) /  [greetings](https://youtu.be/EXhfgDaGc2w)
   * 2021/5/22 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
   * 2021/5/22 [テーマ概要紹介](lab_introduction.md)．
     * [Lab Intro + parallel string processing demo (English)](https://youtu.be/-xmkgsaPRrY)
