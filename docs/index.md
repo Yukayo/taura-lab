@@ -23,10 +23,7 @@ computers much more accessible to domain scientists.
 主な研究分野は，並列処理，分散処理，システムソフトウェア，プログラミング言語などです．
 特に，並列処理を高水準に行うためのソフトウェアに重点をおき，より多くの分野研究者に高性能並列計算機の力を提供することを目指しています．
 
-  * 2021/5/22 Google "Taura lab" or visit [https://www.eidos.ic.i.u-tokyo.ac.jp/](https://www.eidos.ic.i.u-tokyo.ac.jp/)
-    * [1分あいさつ](https://youtu.be/XDA-Qe65nCA) /  [1 minute greetings](https://youtu.be/EXhfgDaGc2w)
-  * 2021/5/22 [入試案内用研究室紹介PDF](files/intro.pdf), [Introduction to the Laboratory PDF](files/intro_e.pdf)
-  * 2021/5/22 [テーマ概要紹介](lab_introduction.md)．
+<!--  
     * [Lab intro by Li Le + parallel string processing demo (English)](https://youtu.be/-xmkgsaPRrY)
     * [並列処理紹介ビデオ(Japanese)](https://youtu.be/TQ4fDcG1rwQ)
   * 2021/5/22 Recent conference talks
@@ -34,6 +31,10 @@ computers much more accessible to domain scientists.
     * [Parallel lexing (string processing)](https://youtu.be/JMUl8p0iI18) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
     * [Performance of Infiniband](https://youtu.be/BbYSf0Tji2s) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka; [shorter version](https://youtu.be/TmA5qqDVdac)
   * 2021/5/22 佐藤助教の[研究紹介ビデオ（JST ACT-I加速フェーズ成果発表会）](https://youtu.be/ERVNJa6NXwk)．
+-->  
+
+  * 2021/5/22 [入試案内用研究室紹介PDF](files/intro.pdf), [Introduction to the Laboratory PDF](files/intro_e.pdf)
+  * 2021/5/22 [テーマ概要紹介](lab_introduction.md)．
   * [最近の研究](research.md)． [Recent research topics](research.md). 
   * 2021/1/5 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019.md)
