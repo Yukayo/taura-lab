@@ -33,6 +33,7 @@ computers much more accessible to domain scientists.
     * [User-level threads](https://youtu.be/7kWkcdypV_w) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
     * [Parallel lexing (string processing)](https://youtu.be/JMUl8p0iI18) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
     * [Performance of Infiniband](https://youtu.be/BbYSf0Tji2s) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka; [shorter version](https://youtu.be/TmA5qqDVdac)
+  * 2021/5/22 佐藤助教の[研究紹介ビデオ（JST ACT-I加速フェーズ成果発表会）](https://youtu.be/ERVNJa6NXwk)．
   * [最近の研究](research.md)． [Recent research topics](research.md). 
   * 2021/1/5 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019.md)
