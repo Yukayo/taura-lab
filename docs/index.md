@@ -28,7 +28,7 @@ computers much more accessible to domain scientists.
     * [Lab Intro + parallel string processing demo (English)](https://youtu.be/-xmkgsaPRrY)
     * [並列処理紹介ビデオ(Japanese)](https://youtu.be/TQ4fDcG1rwQ)
   * 2021/5/22 Recent conference talks
-    * [Load balancing method](https://youtu.be/7kWkcdypV_w) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
+    * [User-level threads](https://youtu.be/7kWkcdypV_w) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
     * [Parallel lexing (string processing)](https://youtu.be/JMUl8p0iI18) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
     * [Performance of Infiniband](https://youtu.be/BbYSf0Tji2s) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka; [shorter version](https://youtu.be/TmA5qqDVdac)
   * [最近の研究](research.md)． [Recent research topics](research.md). 
