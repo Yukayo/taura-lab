@@ -25,12 +25,12 @@ computers much more accessible to domain scientists.
 
   * 2021/5/22 [入試案内用研究室紹介](files/intro.pdf), [Introduction to the Laboratory](files/intro_e.pdf)
   * 2021/5/22 [テーマ概要紹介](lab_introduction.md)．
-    * [Lab Intro + parallel string processing demo (English)](https://drive.google.com/file/d/1V8PYSbq0SOlp2tXjUBQPr-m0Bnzv29K5/view?usp=sharing)
-    * [並列処理紹介ビデオ(Japanese)](https://drive.google.com/file/d/1JGpnre6zVVJcL_qAw--oFpe3d-9UFCUP/view?usp=sharing)
+    * [Lab Intro + parallel string processing demo (English)](https://youtu.be/-xmkgsaPRrY)
+    * [並列処理紹介ビデオ(Japanese)](https://youtu.be/TQ4fDcG1rwQ)
   * 2021/5/22 Recent conference talks
-    * [Load balancing method](https://drive.google.com/file/d/1YAsx-E0j3iJ6PmFoJXuOmHBMKY73hvNq/view?usp=sharing) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
-    * [Parallel lexing (string processing)](https://drive.google.com/file/d/1hZ84yVs0xsSSwx_M1u8RIdD5hS9JH8NX/view?usp=sharing) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
-    * [Performance of Infiniband](https://drive.google.com/file/d/1qKIN-e5d-wIJzyE-eyWWkIawK-XlE_Xy/view?usp=sharing) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka
+    * [Load balancing method](https://youtu.be/7kWkcdypV_w) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
+    * [Parallel lexing (string processing)](https://youtu.be/JMUl8p0iI18) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
+    * [Performance of Infiniband](https://youtu.be/BbYSf0Tji2s) at [ISPASS-2021](https://ispass.org/ispass2021/) by Takuya Fukuoka; [shorter version](https://youtu.be/TmA5qqDVdac)
   * [最近の研究](research.md)． [Recent research topics](research.md). 
   * 2021/1/5 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
   * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019.md)

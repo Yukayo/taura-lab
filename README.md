@@ -14,7 +14,7 @@ You need to install [Material for MkDocs](https://squidfunk.github.io/mkdocs-mat
 pip install mkdocs-material
 ```
 
-Run the following command to generate the site under `site/`:
+Run the following command to generate the site under `website/`:
 
 ```
 mkdocs build
