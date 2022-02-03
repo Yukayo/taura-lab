@@ -42,6 +42,11 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
+
+  * 2022 Jan. 12:  修士課程 秀島宇音らの論文「ページベース分散共有メモリ上でのコストを意識したプログラミング」(Cost-aware Programming on Page-based Distributed Shared Memory) が情報処理学会論文誌 プログラミングに採択されました．(A paper by Hideshima et al. got accepted to IPSJ Transactions on Programming.)
+  * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
+  * 2021 Jul. 27: 卒業生 藤村柊吾らの論文 "An Efficient and Scalable Distributed Hypergraph
+Processing System" がJournal of Information Processingに採択されました．(A paper by Fujimura et al. got accepted to Journal of Information Processing.)
   * 2021 Mar. 19: 修士課程 椎名峻平の修士論文 "Efficient Thread Scheduling Strategies for Nested Parallel Programs (ネストした並列プログラムに対する効率的なスレッドスケジューリング手法)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
   * 2021 Mar. 19: 修士課程 椎名峻平，福岡拓也，山口龍太郎が修士号を取得しました． (Shumpei Shiina, Takuya Fukuoka, and Ryutaro Yamaguchi received a master's degree.)
   * 2021 Mar. 18: 卒論生 秀島宇音，藤村柊吾，木村元紀，役山真柊が学士号を取得しました． (Takato Hideshima, Shugo Fujimura, Genki Kimura, and Makoto Yakuyama received a bachelor's degree.)
