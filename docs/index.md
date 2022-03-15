@@ -43,8 +43,10 @@ computers much more accessible to domain scientists.
 
 ## News (ニュース)
 
+  * 2022 Mar. 15:  Journal of Information Processing Vol.30に掲載された論文 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" が，[JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html)に選ばれました．(The paper "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" published at Journal of Information Processing Vol.30 received the [JIP Specially Selected Paper](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html) certificate.)
   * 2022 Jan. 12:  修士課程 秀島宇音らの論文「ページベース分散共有メモリ上でのコストを意識したプログラミング」(Cost-aware Programming on Page-based Distributed Shared Memory) が情報処理学会論文誌 プログラミングに採択されました．(A paper by Hideshima et al. got accepted to IPSJ Transactions on Programming.)
   * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
+  * 2021 Nov. 1: 卒業生 井原央翔のPRO-2020-1における発表が，[CS領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2021.html)を受賞しました．(Ihara Hiroka recieved [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-awardee-2021.html).)
   * 2021 Jul. 27: 卒業生 藤村柊吾らの論文 "An Efficient and Scalable Distributed Hypergraph
 Processing System" がJournal of Information Processingに採択されました．(A paper by Fujimura et al. got accepted to Journal of Information Processing.)
   * 2021 Mar. 19: 修士課程 椎名峻平の修士論文 "Efficient Thread Scheduling Strategies for Nested Parallel Programs (ネストした並列プログラムに対する効率的なスレッドスケジューリング手法)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
