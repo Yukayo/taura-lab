@@ -1,4 +1,14 @@
 # Taura Laboratory's Alumni
+## 2022 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Master Course Student|Takumi ONUKI|大貫 匠|onuki|:jp:|
+|Master Course Student|Taisei TAKAHASHI|高橋 大成|takahashi|:jp:|
+|Master Course Student|Shogo MATSUDA|松田 翔吾|matsuda|:jp:|
+|Undergraduate Student|Yu SHIMADA|島田 優|shimada|:jp:|
+|Undergraduate Student|Jiajun HAN|韓 佳峻|han|:cn:|
+
 ## 2021 spring
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
