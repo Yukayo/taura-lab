@@ -25,7 +25,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Undergraduate Student|Daisuke TSUGE|柘植 大輔|tsuge|:jp:|
 |Undergraduate Student|Shun TAKASHIGE|高重 駿|shige|:jp:|
 |Undergraduate Student|Limin WANG|王 力敏|lwang|:cn:|
-|Undergraduate Student|Yuji Tone|利根 悠司|tone|:jp:|
+|Undergraduate Student|Yuji TONE|利根 悠司|tone|:jp:|
 
 ## Past Members
 
