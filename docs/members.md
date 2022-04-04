@@ -22,6 +22,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Undergraduate Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
 |Undergraduate Student|Yu SHIMADA|島田 優|shimada|:jp:|
 |Undergraduate Student|Jiajun HAN|韓 佳峻|han|:cn:|
+|Undergraduate Student|Daisuke Tsuge|柘植 大輔|tsuge|:jp:|
 
 ## Past Members
 
