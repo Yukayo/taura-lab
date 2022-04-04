@@ -12,16 +12,11 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Doctoral Course Student|Le LI |李　楽 |lile|:cn:|
 |Doctoral Course Student|Marcos Yukio SIRAICHI|シライシ マルコス ユキオ|ysiraichi|:br:|
 |Doctoral Course Student|Shumpei SHIINA|椎名 峻平 |shiina|:jp:|
-|Master Course Student|Takumi ONUKI|大貫 匠 |onuki |:jp:|
-|Master Course Student|Taisei TAKAHASHI|高橋 大成 |takahashi|:jp:|
-|Master Course Student|Shogo MATSUDA|松田 翔吾 |matsuda|:jp:|
 |Master Course Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
 |Master Course Student|Makoto YAKUYAMA|役山 真柊|yakuyama|:jp:|
 |Master Course Student|Godai TAKASHINA|高品 剛大|takashina|:jp:|
+|Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
 |Undergraduate Student|Taiyo MIZUHASHI|水橋 大瑶|mizuhashi|:jp:|
-|Undergraduate Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
-|Undergraduate Student|Yu SHIMADA|島田 優|shimada|:jp:|
-|Undergraduate Student|Jiajun HAN|韓 佳峻|han|:cn:|
 |Undergraduate Student|Daisuke TSUGE|柘植 大輔|tsuge|:jp:|
 |Undergraduate Student|Shun TAKASHIGE|高重 駿|shige|:jp:|
 |Undergraduate Student|Limin WANG|王 力敏|lwang|:cn:|
