@@ -16,6 +16,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Makoto YAKUYAMA|役山 真柊|yakuyama|:jp:|
 |Master Course Student|Godai TAKASHINA|高品 剛大|takashina|:jp:|
 |Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
+|Master Course Student|Kishin MATSUOKA|松岡 暉心|matsuoka|:jp:|
 |Undergraduate Student|Taiyo MIZUHASHI|水橋 大瑶|mizuhashi|:jp:|
 |Undergraduate Student|Daisuke TSUGE|柘植 大輔|tsuge|:jp:|
 |Undergraduate Student|Shun TAKASHIGE|高重 駿|shige|:jp:|
