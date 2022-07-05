@@ -46,6 +46,7 @@ computers much more accessible to domain scientists.
 
 ## News (ニュース)
 
+  * 2022 Jul. 05: 博士課程 椎名峻平らの論文 "Distributed Continuation Stealing is More Scalable than You Might Think" が [IEEE Cluster 2022](https://clustercomp.org/2022/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE Cluster 2022](https://clustercomp.org/2022/))
   * 2022 Mar. 15:  Journal of Information Processing Vol.30に掲載された論文 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" が，[JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html)に選ばれました．(The paper "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" published at Journal of Information Processing Vol.30 received the [JIP Specially Selected Paper](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html) certificate.)
   * 2022 Jan. 12:  修士課程 秀島宇音らの論文「ページベース分散共有メモリ上でのコストを意識したプログラミング」(Cost-aware Programming on Page-based Distributed Shared Memory) が情報処理学会論文誌 プログラミングに採択されました．(A paper by Hideshima et al. got accepted to IPSJ Transactions on Programming.)
   * 2021 Dec. 6: 卒業生 遠藤亘の博士研究の仕事 "ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++" がJournal of Information Processingに採択されました．(A paper by Endo et al. got accepted to Journal of Information Processing.)
