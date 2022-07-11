@@ -11,7 +11,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Doctoral Course Student|Yuchen QIAO|喬 宇宸 |qiao|:cn:|
 |Doctoral Course Student|Le LI |李　楽 |lile|:cn:|
 |Doctoral Course Student|Marcos Yukio SIRAICHI|シライシ マルコス ユキオ|ysiraichi|:br:|
-|Doctoral Course Student|Shumpei SHIINA|椎名 峻平 |shiina|:jp:|
+|Doctoral Course Student|[Shumpei SHIINA](https://sshiina.gitlab.io)|椎名 峻平 |shiina|:jp:|
 |Master Course Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
 |Master Course Student|Makoto YAKUYAMA|役山 真柊|yakuyama|:jp:|
 |Master Course Student|Godai TAKASHINA|高品 剛大|takashina|:jp:|
