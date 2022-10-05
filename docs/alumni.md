@@ -117,7 +117,7 @@
 |Master|[Takahisa NAKAZAWA](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/tnakazawa/)|中澤 隆久|tnakazawa|:jp:|
 |Master|[Sho NAKATANI](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/nakatani/)|中谷 翔|nakatani|:jp:|
 |Master|[Shinya HAYASHI](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/hayashi/index.html)|林 伸也|hayashi|:jp:|
-|Master|[Ganbat AMGALAN](http://www.logos.ic.i.u-tokyo.ac.jp/~amgalan/dokuwiki/)|Ганбатын Амгалан|amgaa|:cn:|
+|Master|[Ganbat AMGALAN](http://www.logos.ic.i.u-tokyo.ac.jp/~amgalan/dokuwiki/)|Ганбатын Амгалан|amgaa|:mn:|
 |Bachelor|Marina OZAWA|小澤 真里奈|ozawa|:jp:|
 |Bachelor|Takaya KAWAKATSU|川勝 孝也|kat|:jp:|
 |Bachelor|Shunsuke TSUKATANI|塚谷 俊介|tsukatani|:jp:|
@@ -147,7 +147,7 @@
 |---|---|---|---|---|
 |Master|[Tomoya KABE](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/kabe/index.htm)|加辺 友也|kabe|:jp:|
 |Research Student|Sugianto ANGKASA|Sugianto ANGKASA|sugianto|:indonesia:|
-|Research Student|Gantulga NADMID|Надмидын Гантулга|gana|:cn:|
+|Research Student|Gantulga NADMID|Надмидын Гантулга|gana|:mn:|
 |Bachelor|Kazuya OHARA|小原 知也|yami|:jp:|
 |Bachelor|Keiichi WATANABE|渡辺 圭一|keii|:jp:|
 |Bachelor|Takayuki ITAMOCHI|板持 貴之|itamochi|:jp:|
