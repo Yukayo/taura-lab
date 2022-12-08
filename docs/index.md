@@ -45,6 +45,7 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
+  * 2022 Dec. 8: 博士課程 李楽らの論文 "Associative Operator Precedence Parsing: A Method To Increase Data Parsing Parallelism" が [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/) に採択されました． (A paper by Le Li et al. has been accepted by [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/))
   * 2022 Oct. 23: 博士課程 李楽らの論文 "SimdFSM: An Adaptive Vectorization of Finite State Machines for Speculative Execution" が [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/) に採択されました． (A paper by Le Li et al. has been accepted by [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/))
   * 2022 Jul. 28: 博士課程 椎名峻平らの論文 "Improving Cache Utilization of Nested Parallel Programs by Almost Deterministic Work Stealing" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td))
   * 2022 Jul. 05: 博士課程 椎名峻平らの論文 "Distributed Continuation Stealing is More Scalable than You Might Think" が [IEEE Cluster 2022](https://clustercomp.org/2022/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE Cluster 2022](https://clustercomp.org/2022/))
