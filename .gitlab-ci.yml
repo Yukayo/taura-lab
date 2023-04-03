@@ -25,3 +25,14 @@ deploy_site:
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | ssh-add -
     - rsync -vzrl --chown=gitlab-runner:gitlab-runner --del -e 'ssh -o StrictHostKeyChecking=no' site/ gitlab-runner@www.eidos.ic.i.u-tokyo.ac.jp:/var/www/eidos/
+
+pages:
+  stage: deploy
+  image: alpine
+  only:
+    - master
+  script:
+    - mv site public
+  artifacts:
+    paths:
+      - public
