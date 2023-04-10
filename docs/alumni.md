@@ -1,4 +1,19 @@
 # Taura Laboratory's Alumni
+## 2023 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Doctoral Course Student|Yuchen QIAO|喬 宇宸 |qiao|:cn:|
+|Doctoral Course Student|Le LI |李　楽 |lile|:cn:|
+|Doctoral Course Student|Marcos Yukio SIRAICHI|シライシ マルコス ユキオ|ysiraichi|:br:|
+|Master Course Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
+|Master Course Student|Makoto YAKUYAMA|役山 真柊|yakuyama|:jp:|
+|Master Course Student|Godai TAKASHINA|高品 剛大|takashina|:jp:|
+|Undergraduate Student|Taiyo MIZUHASHI|水橋 大瑶|mizuhashi|:jp:|
+|Undergraduate Student|Daisuke TSUGE|柘植 大輔|tsuge|:jp:|
+|Undergraduate Student|Shun TAKASHIGE|高重 駿|shige|:jp:|
+|Undergraduate Student|Limin WANG|王 力敏|lwang|:cn:|
+
 ## 2022 spring
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
