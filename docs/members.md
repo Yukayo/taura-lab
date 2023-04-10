@@ -6,7 +6,6 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |---|---|---|---|---|
 |Professor|[Kenjiro TAURA](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/) |田浦 健次朗|tau|:jp:|
 |Assistant Professor|[Shigeyuki SATO](https://www.eidos.ic.i.u-tokyo.ac.jp/~sato/) |佐藤 重幸|sato|:jp:|
-|Project Researcher|[Noboru TANABE](https://www.linkedin.com/in/noboru-tanabe-8014846a/)|田邊 昇|tanabe|:jp:|
 |Secretary|Sachie IKEYA|池谷 幸絵|tausec|:jp:|
 |Doctoral Course Student|[Shumpei SHIINA](https://sshiina.gitlab.io)|椎名 峻平 |shiina|:jp:|
 |Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
