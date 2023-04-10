@@ -10,18 +10,21 @@ If you want to edit/add/delete pages, you only have to edit/add/delete the Markd
 
 You need to install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) (a MkDocs theme that this website uses):
 
-```
+```bash
+# Use venv [optional]
+python3 -m venv .venv && source .venv/bin/activate
+
 pip install mkdocs-material
 ```
 
 Run the following command to generate the site under `website/`:
 
-```
+```bash
 mkdocs build
 ```
 
 Or you can preview the site as you are editing by running the following command and accessing <http://127.0.0.1:8000/>:
 
-```
+```bash
 mkdocs serve
 ```
