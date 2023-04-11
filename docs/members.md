@@ -16,6 +16,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Undergraduate Student|Hiromu SASAKI|佐々木 大夢|sasahiro|:jp:|
 |Undergraduate Student|Sosuke HOSOKAWA|細川 颯介|sosuke|:jp:|
 |Undergraduate Student|So MOROZUMI|両角 颯|morozumi|:jp:|
+|Undergraduate Student|Haruki NISHII|西井 遥紀|sitianos|:jp:|
 
 ## Past Members
 
