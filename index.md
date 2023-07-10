@@ -32,21 +32,21 @@ computers much more accessible to domain scientists.
 ### 研究室紹介
 
   * 2022/5/21 入試説明会（電子情報学専攻）
-    * [研究紹介ビデオ（Japanese）](https://youtu.be/21166z372R8) [[PDF]](files/intro_2022/taura-lab-intro-ja.pdf)
+    * [研究紹介ビデオ（Japanese）](https://youtu.be/21166z372R8) [[PDF]](contents/files/intro_2022/taura-lab-intro-ja.pdf)
     * ブレイクアウトルームで実施する「お便りコーナー」ための[質問・意見箱](https://app.sli.do/event/6VG8Nko46LCUCn4ehAvDpP/live/questions)．当日，佐藤助教や所属学生が適当に答えます．記名は任意で，自由な質問や意見<del>及びボケ</del>をお待ちしています．
   * 2021/5/22 入試説明会（電子情報学専攻）
     * [並列処理紹介ビデオ（Japanese）](https://youtu.be/TQ4fDcG1rwQ)
     * [Lab intro by Li Le + parallel string processing demo (English)](https://youtu.be/-xmkgsaPRrY)
-    * [入試案内用研究室紹介PDF](files/intro.pdf), [Introduction to the Laboratory PDF](files/intro_e.pdf)
-    * [テーマ概要紹介](lab_introduction)．
+    * [入試案内用研究室紹介PDF](contents/files/intro.pdf), [Introduction to the Laboratory PDF](contents/files/intro_e.pdf)
+    * [テーマ概要紹介](contents/lab_introduction)．
   * 2021/5/22 最近の国際会議における学生の発表
     * [User-level threads](https://youtu.be/7kWkcdypV_w) at [PPoPP 2021](https://ppopp21.sigplan.org/) by Shumpei Shiina 
     * [Parallel lexing (string processing)](https://youtu.be/JMUl8p0iI18) at [IPDPS 2021](https://www.ipdps.org/) by Li Le
     * [Performance of Infiniband](https://youtu.be/BbYSf0Tji2s) at [ISPASS 2021](https://ispass.org/ispass2021/) by Takuya Fukuoka; [shorter version](https://youtu.be/TmA5qqDVdac)
   * 2021/5/22 佐藤助教の[研究紹介ビデオ（JST ACT-I加速フェーズ成果発表会）](https://youtu.be/ERVNJa6NXwk)
   * 2021/2/9 [最近の研究トピック（Recent research topics）](research)．
-  * 2021/1/5 [卒論配属説明会ポスター(pdf)](files/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](files/poster.pptx "\(pptx\)"), 
-  * 2019/11/27 [3年生研究室訪問時紹介スライド](紹介3年生2019)
+  * 2021/1/5 [卒論配属説明会ポスター(pdf)](contentsfiles/poster.pdf "卒論配属説明会ポスター\(pdf\)"),[(pptx)](contents/files/poster.pptx "\(pptx\)"), 
+  * 2019/11/27 [3年生研究室訪問時紹介スライド](contents/紹介3年生2019)
   * 東大[学内広報 no. 1499 2017.8](https://www.u-tokyo.ac.jp/ja/about/public-relations/kouhou2017.html)に書いたカラム[「車輪の再発明と研究者の幸せ(最終ページ)」](https://www.u-tokyo.ac.jp/content/400067376.pdf). 技術的なことは抜きにして研究についての考え. 
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
@@ -76,4 +76,4 @@ Processing System" がJournal of Information Processingに採択されました�
   * 2020 May. 26: 博士課程 クリスティアン ヘルムらの論文 "Automatic Identification and Precise Attribution of DRAM Bandwidth Contention" が [ICPP 2020](https://jnamaral.github.io/icpp20/) に採択されました． (A paper by Christian Helm et al. has been accepted by [ICPP 2020](https://jnamaral.github.io/icpp20/)) 
   * 2020 Feb. 14: 博士課程 岩崎慎太郎らの論文 "Analyzing the Performance Trade-Off in Implementing User-Level Threads" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shintaro Iwasaki et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td)) 
 
-[See older](news)
+[See older](contents/news)
