@@ -2,5 +2,6 @@ title: Taura Laboratory
 description: ""
 url: https://www.eidos.ic.i.u-tokyo.ac.jpbu
 theme: just-the-docs
+favicon_ico: "/assets/images/favicon.png"
 plugins:
   - jemoji
