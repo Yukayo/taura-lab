@@ -279,7 +279,7 @@ OSのスレッド生成のAPIと似た様なAPIを用いてスレッドを作り
 負荷分散を行うために全体を統括する「上司」のような存在はなく, コア間での負荷分散をコア同士が自律的に行います. その際,
 なるべく大粒の仕事をコア間で移動させることにより, 負荷分散自身の通信量や, 仕事に移動によって2次的に発生する通信が少なくなるようにします.
 
-この成果は, [MassiveThreads](research/massivethreads.md)というオープンソースのライブラリとして公開
+この成果は, [MassiveThreads](research/massivethreads)というオープンソースのライブラリとして公開
 (<https://github.com/massivethreads/massivethreads>) されています. CやC++言語から容易に使うことができます.
 類似のシステムとして, OpenMPのtask構文, IntelのThreading Building Block, Cilkplusなどがありますが,
 これまでいずれのシステムとも同等か, 多くの場合それらを上回る性能を出している上, ライブラリとして提供されているために,
@@ -297,7 +297,7 @@ OSのスレッド生成のAPIと似た様なAPIを用いてスレッドを作り
 
 ### MassiveThreads/DM 分散メモリ計算機用軽量スレッドライブラリ
 
-上で述べた[MassiveThreads](research/massivethreads.md)は, 一つのノード(箱)の中の負荷分散を行うシステムです.
+上で述べた[MassiveThreads](research/massivethreads)は, 一つのノード(箱)の中の負荷分散を行うシステムです.
 MassiveThreads/DM はその拡張で, 負荷分散をノードをまたがって出来るようにしたシステムです.
 
 ノードの中(の複数のプロセッサ間)の負荷分散と, ノードをまたがった負荷分散とは, 概念的には似ていますが, それを効率良く,
@@ -319,7 +319,7 @@ MassiveThreads/DM はその拡張で, 負荷分散をノードをまたがって
 また, そのようなデータの移動が大量に起きないようにする, あまり細かい移動が頻繁に起きないようにするなど, 性能を得るための制約もより厳しくなります.
 そしてそれらを, プログラマに易しいインタフェースで提供しなくてはなりません.
 
-MassiveThreads/DMは以上を, [MassiveThreads](research/massivethreads.md)の拡張として, やはりC,
+MassiveThreads/DMは以上を, [MassiveThreads](research/massivethreads)の拡張として, やはりC,
 C++言語から用いることができるように設計, 実装されています. そのために, C言語で書かれたスレッドのスタックをノード間でコピーし,
 別のノード上で再開させるとか, なかなかワイルドなことをしています.
 
@@ -358,7 +358,7 @@ GPUのプログラミングモデルであるCUDAやOpenCLなどが最初に提�
 上で述べたような要素プリミティブ(処理の適用(map), フィルタリング, グループ化, 集計)をもともと備えており, 多くの人が馴染んでいる言語です.
 そしていずれの操作も自然に並列処理を行うことができます. そのため, ユーザにフレンドリな言語としてSQLを元にすることは自然です.
 
-[ParaLite](research/paralite.md)は, SQLを拡張し, SQL問い合わせの構文の中に,
+[ParaLite](research/paralite)は, SQLを拡張し, SQL問い合わせの構文の中に,
 アプリケーション固有の処理を容易に埋め込めるようにしました. 多くのデータ処理アプリケーションでは, アプリケーション固有の複雑な処理は,
 汎用のプログラミング言語で記述され, 独立したプログラムとしてすでに存在しています. SQL問い合わせの構文で並列処理全体の流れを記述しつつ,
 そのようなプログラムを処理の一部に組み込むことを可能にし, データ処理アプリケーションの並列化を容易にしています.
@@ -373,9 +373,9 @@ GPUのプログラミングモデルであるCUDAやOpenCLなどが最初に提�
 
 ## 共同研究
 
-  * CRAY (Brad ChamberlainおよびChapelチーム) [MassiveThreads](research/massivethreads.md)が, [Chapel](http://chapel.cray.com/)というプログラミング言語処理系の一部として使われています. 
-  * KAUST (横田理央) [MassiveThreads](research/massivethreads.md)が, [ExaFMM](https://github.com/exafmm/exafmm)という, 高速なN体問題シミュレーションを並列化するために使われています 
+  * CRAY (Brad ChamberlainおよびChapelチーム) [MassiveThreads](research/massivethreads)が, [Chapel](http://chapel.cray.com/)というプログラミング言語処理系の一部として使われています. 
+  * KAUST (横田理央) [MassiveThreads](research/massivethreads)が, [ExaFMM](https://github.com/exafmm/exafmm)という, 高速なN体問題シミュレーションを並列化するために使われています 
   * 理研 (丸山直也) 高水準な言語で様々な並列アプリケーションを記述するフレームワークの設計について共同で取り組んでいます 
-  * 東工大 (Miquel Pericas) [MassiveThreads](research/massivethreads.md)のような, 軽量スレッドを用いたプログラムの性能理解, プロファイラについて共同で研究しています 
+  * 東工大 (Miquel Pericas) [MassiveThreads](research/massivethreads)のような, 軽量スレッドを用いたプログラムの性能理解, プロファイラについて共同で研究しています 
   * Microsoft Research Asia (辻井潤一) 並列自然言語処理のための高水準なシステムについて共同で研究しています 
 

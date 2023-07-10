@@ -26,4 +26,4 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 
 ## Past Members
 
-Please consult [Alumni](alumni.md).
+Please consult [Alumni](alumni).
