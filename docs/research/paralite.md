@@ -1,3 +1,8 @@
+---
+layout: page
+title: "ParaLite: Parallel Database"
+---
+
 # ParaLite: Parallel Database
 
 A parallel database that can easily parallelize workflow applications

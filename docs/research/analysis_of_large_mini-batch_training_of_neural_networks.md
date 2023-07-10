@@ -1,3 +1,8 @@
+---
+layout: page
+title: Analysis of Large Mini-Batch Training of Neural Networks
+---
+
 # Analysis of Large Mini-Batch Training of Neural Networks
 
 The neural network models are becoming complex and the datasets are growing

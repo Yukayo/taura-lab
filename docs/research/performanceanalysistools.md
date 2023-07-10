@@ -1,3 +1,8 @@
+---
+layout: page
+title: Performance Analysis Tools
+---
+
 # Performance Analysis Tools
 
 Software rarely achieves the peak performance of a processor. Performance

@@ -1,3 +1,8 @@
+---
+layout: page
+title: MPI+ULT
+---
+
 # MPI+ULT
 
 MPI+ULTモデルの性能向上

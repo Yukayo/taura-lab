@@ -1,3 +1,8 @@
+---
+layout: page
+title: Thesis Titles
+---
+
 # 2020
 
 |学位|名前|題目|

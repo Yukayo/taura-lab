@@ -1,3 +1,8 @@
+---
+layout: page
+title: 次世代SSDによるVMMを用いたメモリ空間の拡張
+---
+
 # 次世代SSDによるVMMを用いたメモリ空間の拡張
 
 ## 次世代SSD

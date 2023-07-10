@@ -1,3 +1,8 @@
+---
+layout: page
+title: CFG構文解析
+---
+
 # CFG構文解析
 
 ## 構文解析とは

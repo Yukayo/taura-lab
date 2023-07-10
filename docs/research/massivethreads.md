@@ -1,3 +1,8 @@
+---
+layout: page
+title: MassiveThreads: "Super Lightweight Thread Library"
+---
+
 # MassiveThreads: Super Lightweight Thread Library
 
 A thread library that can spawn threads two orders of magnitude faster than

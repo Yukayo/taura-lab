@@ -1,3 +1,8 @@
+---
+layout: page
+title: GXP Parallel Shell/Scripting Tool
+---
+
 # GXP Parallel Shell/Scripting Tool
 
 A parallel processing tool that enables parallel processing built on existing

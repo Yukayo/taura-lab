@@ -1,3 +1,8 @@
+---
+layout: page
+title: Taura Laboratory's Alumni
+---
+
 # Taura Laboratory's Alumni
 ## 2023 spring
 
@@ -5,7 +10,7 @@
 |---|---|---|---|---|
 |Project Researcher|[Noboru TANABE](https://www.linkedin.com/in/noboru-tanabe-8014846a/)|田邊 昇|tanabe|:jp:|
 |Doctoral Course Student|Le LI |李　楽 |lile|:cn:|
-|Doctoral Course Student|Marcos Yukio SIRAICHI|シライシ マルコス ユキオ|ysiraichi|:br:|
+|Doctoral Course Student|Marcos Yukio SIRAICHI|シライシ マルコス ユキオ|ysiraichi|:brazil:|
 |Master Course Student|Takato HIDESHIMA|秀島 宇音 |hideshima |:jp:|
 |Master Course Student|Makoto YAKUYAMA|役山 真柊|yakuyama|:jp:|
 |Master Course Student|Godai TAKASHINA|高品 剛大|takashina|:jp:|
@@ -67,7 +72,7 @@
 |Doctoral Course Student|[Shigeki AKIYAMA](https://www.eidos.ic.i.u-tokyo.ac.jp/~akiyama/)|秋山 茂樹|akiyama|:jp:|
 |Master Course Student|Hiroka IHARA|井原 央翔|ihara|:jp:|
 |Master Course Student|Hiroki NAKAZAWA|中澤 弘樹|hnakazawa|:jp:|
-|Master Course Student|Satish Kumar JAISWAL|ジャスワル　サティシュ　クマル|ictish|:np:|
+|Master Course Student|Satish Kumar JAISWAL|ジャスワル　サティシュ　クマル|ictish|:nepal:|
 |Undergraduate Student|Kotatsu SHIRAKI|白木 光達|shiraki|:jp:|
 |Undergraduate Student|Nozomi ISOZAKI|磯崎 希 |isozaki |:jp:|
 
@@ -75,7 +80,7 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Doctoral Course Student|[An HUYNH](https://www.eidos.ic.i.u-tokyo.ac.jp/~huynh/)|フィン　ゴクアン|huynh|:vn:|
+|Doctoral Course Student|[An HUYNH](https://www.eidos.ic.i.u-tokyo.ac.jp/~huynh/)|フィン　ゴクアン|huynh|:vietnam:|
 |Master Course Student|Masaru ITO|伊藤 大|mito|:jp:|
 |Master Course Student|Yusuke TOKUNAGA|徳永 裕介|ytoku|:jp:|
 |Master Course Student|Kouhei TOSHIMITSU|利光 宏平|toshimitsu|:jp:|
@@ -90,7 +95,7 @@
 |---|---|---|---|---|
 |Special Research Student|Yang TIAN|田 楊|yang|:cn:|
 |Doctoral Course Student|[Jun NAKASHIMA](https://www.eidos.ic.i.u-tokyo.ac.jp/~nakashima/)|中島 潤|nakashima|:jp:|
-|Master Course Student|Byambajav NAMSRAIJAV|ナムスライジャブ　ビャンバジャブ|byambajav|:mn:|
+|Master Course Student|Byambajav NAMSRAIJAV|ナムスライジャブ　ビャンバジャブ|byambajav|:mongolia:|
 |Undergraduate Student|Tomohiro EGUCHI|江口 知弘|etguchi|:jp:|
 |Undergraduate Student|Kazuhiko YASUDA|保田 和彦|yasuda|:jp:|
 
@@ -109,14 +114,14 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Special Research Student|Carlos Eduardo Moreira dos Santos|カルロス エドゥアルド モレイラ ドス サントス|cadu|:br:|
+|Special Research Student|Carlos Eduardo Moreira dos Santos|カルロス エドゥアルド モレイラ ドス サントス|cadu|:brazil:|
 
 ## 2015 spring
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
 |Master Course Student|Hikaru HAYAMIZU|早水 光|hikaru|:jp:|
-|Master Course Student|Nguyen Thien Bao|グェン　ティエン　バオ|thienbao|:vn:|
+|Master Course Student|Nguyen Thien Bao|グェン　ティエン　バオ|thienbao|:vietnam:|
 |Master Course Student|Yusuke NISHIOKA|西岡 祐輔|nishioka|:jp:|
 |Undergraduate Student|Shoetsu SATO|佐藤 翔悦|shoetsu|:jp:|
 |Undergraduate Student|Yuuya ONO|小野 裕也|ono|:jp:|
@@ -138,7 +143,7 @@
 |Master|[Takahisa NAKAZAWA](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/tnakazawa/)|中澤 隆久|tnakazawa|:jp:|
 |Master|[Sho NAKATANI](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/nakatani/)|中谷 翔|nakatani|:jp:|
 |Master|[Shinya HAYASHI](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/hayashi/index.html)|林 伸也|hayashi|:jp:|
-|Master|[Ganbat AMGALAN](http://www.logos.ic.i.u-tokyo.ac.jp/~amgalan/dokuwiki/)|Ганбатын Амгалан|amgaa|:mn:|
+|Master|[Ganbat AMGALAN](http://www.logos.ic.i.u-tokyo.ac.jp/~amgalan/dokuwiki/)|Ганбатын Амгалан|amgaa|:mongolia:|
 |Bachelor|Marina OZAWA|小澤 真里奈|ozawa|:jp:|
 |Bachelor|Takaya KAWAKATSU|川勝 孝也|kat|:jp:|
 |Bachelor|Shunsuke TSUKATANI|塚谷 俊介|tsukatani|:jp:|
@@ -168,7 +173,7 @@
 |---|---|---|---|---|
 |Master|[Tomoya KABE](http://www.eidos.ic.i.u-tokyo.ac.jp/~alumni/kabe/index.htm)|加辺 友也|kabe|:jp:|
 |Research Student|Sugianto ANGKASA|Sugianto ANGKASA|sugianto|:indonesia:|
-|Research Student|Gantulga NADMID|Надмидын Гантулга|gana|:mn:|
+|Research Student|Gantulga NADMID|Надмидын Гантулга|gana|:mongolia:|
 |Bachelor|Kazuya OHARA|小原 知也|yami|:jp:|
 |Bachelor|Keiichi WATANABE|渡辺 圭一|keii|:jp:|
 |Bachelor|Takayuki ITAMOCHI|板持 貴之|itamochi|:jp:|
@@ -180,5 +185,5 @@
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Research Student|Anttila MARTTI|マルッティ アンティッラ|martti|:fi:|
+|Research Student|Anttila MARTTI|マルッティ アンティッラ|martti|:finland:|
 

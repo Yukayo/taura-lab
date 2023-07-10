@@ -1,3 +1,8 @@
+---
+layout: page
+title: Members
+---
+
 # Members
 
 Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.

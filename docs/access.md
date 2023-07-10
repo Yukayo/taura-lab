@@ -1,3 +1,8 @@
+---
+layout: page
+title: Access
+---
+
 # Access
 
 Faculty of Engineering Building #2  

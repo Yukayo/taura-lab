@@ -1,3 +1,8 @@
+---
+layout: page
+title: Call for postdoctoral researcher
+---
+
 # Call for postdoctoral researcher
 
 We solicit postdoctoral researchers working for the research project ["General

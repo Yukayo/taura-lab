@@ -1,3 +1,8 @@
+---
+layout: page
+title: Papers
+---
+
 # Papers
 
 note: [Taura's google scholar

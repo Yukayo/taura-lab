@@ -1,3 +1,8 @@
+---
+layout: page
+title: Old News since 2014 Nov. (ニュース)
+---
+
 # Old News since 2014 Nov. (ニュース)
 
   * 2019 Oct. 14: 博士課程 クリスティアン ヘルムらの論文 "On the Correct Measurement of Application Memory Bandwidth and Memory Access Latency" が [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html) に採択されました． (A paper by Christian Helm et al. has been accepted by [HPC Asia 2020](http://sighpc.ipsj.or.jp/HPCAsia2020/index.html))

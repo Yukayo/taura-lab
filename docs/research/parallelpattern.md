@@ -1,3 +1,8 @@
+---
+layout: page
+title: 並列パターン (Parallel Patterns)
+---
+
 # 並列パターン (Parallel Patterns)
 
 このページでは並列パターン（別名[algorithmic

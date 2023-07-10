@@ -1,3 +1,8 @@
+---
+layout: page
+title: Taura Laboratory
+---
+
 # Taura Laboratory
 
 ## Overview (概要)

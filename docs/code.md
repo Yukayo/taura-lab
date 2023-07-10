@@ -1,3 +1,8 @@
+---
+layout: page
+title: Code
+---
+
 # Code
 
 As a research group working on system software, we have a great deal of
