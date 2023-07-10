@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 次世代SSDによるVMMを用いたメモリ空間の拡張
+nav_exclude: true
 ---
 
 # 次世代SSDによるVMMを用いたメモリ空間の拡張

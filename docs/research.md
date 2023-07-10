@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+nav_order: 3
 ---
 
 # Introduction to Our Research Topics (研究紹介)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Emails forwarding to Gmail got significantly delayed, and here is what happened (and is still happening)
+nav_exclude: true
 ---
 
 # Emails forwarding to Gmail got significantly delayed, and here is what happened (and is still happening)

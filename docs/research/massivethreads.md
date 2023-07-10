@@ -1,6 +1,7 @@
 ---
 layout: page
-title: MassiveThreads: "Super Lightweight Thread Library"
+title: "MassiveThreads: Super Lightweight Thread Library"
+nav_exclude: true
 ---
 
 # MassiveThreads: Super Lightweight Thread Library

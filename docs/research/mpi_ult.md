@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MPI+ULT
+nav_exclude: true
 ---
 
 # MPI+ULT

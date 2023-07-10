@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Misc
+nav_order: 5
 ---
 
 # Misc

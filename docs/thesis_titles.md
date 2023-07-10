@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thesis Titles
+nav_exclude: true
 ---
 
 # 2020

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GXP Parallel Shell/Scripting Tool
+nav_exclude: true
 ---
 
 # GXP Parallel Shell/Scripting Tool

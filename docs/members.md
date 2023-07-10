@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Members
+nav_order: 2
 ---
 
 # Members

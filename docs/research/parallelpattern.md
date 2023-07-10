@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 並列パターン (Parallel Patterns)
+nav_exclude: true
 ---
 
 # 並列パターン (Parallel Patterns)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Analysis of Large Mini-Batch Training of Neural Networks
+nav_exclude: true
 ---
 
 # Analysis of Large Mini-Batch Training of Neural Networks

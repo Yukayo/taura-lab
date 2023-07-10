@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Taura Laboratory
+nav_exclude: true
 ---
 
 # Taura Laboratory

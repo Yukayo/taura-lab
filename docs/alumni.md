@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Taura Laboratory's Alumni
+nav_exclude: true
 ---
 
 # Taura Laboratory's Alumni

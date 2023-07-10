@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for postdoctoral researcher
+nav_exclude: true
 ---
 
 # Call for postdoctoral researcher

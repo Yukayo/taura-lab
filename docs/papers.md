@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Papers
+nav_order: 4
 ---
 
 # Papers

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 研究室のテーマ, 最近の取り組みの紹介
+nav_exclude: true
 ---
 
 # 研究室のテーマ, 最近の取り組みの紹介

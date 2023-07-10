@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CFG構文解析
+nav_exclude: true
 ---
 
 # CFG構文解析

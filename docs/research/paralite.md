@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ParaLite: Parallel Database"
+nav_exclude: true
 ---
 
 # ParaLite: Parallel Database

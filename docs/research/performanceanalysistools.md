@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Performance Analysis Tools
+nav_exclude: true
 ---
 
 # Performance Analysis Tools

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lightweight Threading Library and OpenMP Runtime System
+nav_exclude: true
 ---
 
 # Lightweight Threading Library and OpenMP Runtime System

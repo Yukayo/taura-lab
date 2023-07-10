@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Old News since 2014 Nov. (ニュース)
+nav_exclude: true
 ---
 
 # Old News since 2014 Nov. (ニュース)
