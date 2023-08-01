@@ -1,30 +1,32 @@
 # Taura-Lab Website
 
-[The Taura-lab website](https://www.eidos.ic.i.u-tokyo.ac.jp) is built with [MkDocs](https://www.mkdocs.org/).
-MkDocs generates static HTML files from the Markdown files in `docs/` directory.
+[The Taura-lab website](https://www.eidos.ic.i.u-tokyo.ac.jp) is built with [Jekyll](https://jekyllrb.com/).
+Jekyll generates static HTML files from the Markdown files.
 
-GitLab CI is configured so that a push to the master branch of this repository will automatically trigger an update of the website.
-If you want to edit/add/delete pages, you only have to edit/add/delete the Markdown files and push your changes to the master branch.
+GitHub Pages supports Jekyll so that a push to a specific branch of this repository will automatically trigger an update of the website.
+If you want to edit/add/delete pages, you only have to edit/add/delete the Markdown files and push your changes to the main branch.
 
 ## Building the site
-
-You need to install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) (a MkDocs theme that this website uses):
+You need to install bundler:
 
 ```bash
-# Use venv [optional]
-python3 -m venv .venv && source .venv/bin/activate
-
-pip install mkdocs-material
+gem install bundler
 ```
 
-Run the following command to generate the site under `website/`:
+Run the following command to install the dependencies under `website/`:
 
 ```bash
-mkdocs build
+bundle install
 ```
 
-Or you can preview the site as you are editing by running the following command and accessing <http://127.0.0.1:8000/>:
+Run the following command to build the site:
 
 ```bash
-mkdocs serve
+bundle exec jekyll build
+```
+
+Or you can preview the site as you are editing by running the following command and accessing <http://127.0.0.1:4000/>:
+
+```bash
+bundle exec jekyll build
 ```
