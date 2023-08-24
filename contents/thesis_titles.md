@@ -44,6 +44,7 @@ nav_exclude: true
 |学士|白木 光達|不正通信検知を迂回可能な IEEE 802.11 上の情報漏洩攻撃とその検知手法|
 
 # 2017
+
 |学位|名前|題目|
 |---|---|:---|
 |博士|フィン ゴクアン|スケジューリング遅延に基づいたタスク並列ランタイムシステムの性能差の解析 <br> Analyzing Performance Differences of Task Parallel Runtime Systems based on Scheduling Delays|

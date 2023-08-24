@@ -6,7 +6,7 @@ nav_order: 3
 
 # Introduction to Our Research Topics (研究紹介)
 
-最近の学位論文の題名一覧は[こちら](/docs/thesis_titles)を見てください. 
+最近の学位論文の題名一覧は[こちら](thesis_titles)を見てください. 
 
 You can see recent thesis titles [here](thesis_titles).
 
