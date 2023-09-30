@@ -10,8 +10,8 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Professor|[Kenjiro TAURA](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/) |田浦 健次朗|tau|:jp:|
-|Assistant Professor|[Shigeyuki SATO](https://www.eidos.ic.i.u-tokyo.ac.jp/~sato/) |佐藤 重幸|sato|:jp:|
+|Professor|[Kenjiro TAURA](https://taura.github.io/) |田浦 健次朗|tau|:jp:|
+|Assistant Professor|[Shigeyuki SATO](https://satoshigeyuki.github.io/) |佐藤 重幸|sato|:jp:|
 |Secretary|Sachie IKEYA|池谷 幸絵|tausec|:jp:|
 |Doctoral Course Student|[Shumpei SHIINA](https://sshiina.gitlab.io)|椎名 峻平 |shiina|:jp:|
 |Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
