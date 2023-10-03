@@ -25,7 +25,6 @@ You can see recent thesis titles [here](thesis_titles).
   * [大規模な文字列データ向けのアドホックな並列処理系](research/大規模な文字列データ向けのアドホックな並列処理系)
   * [CFG構文解析](research/cfg構文解析)
   * [ParaLite: Parallel Database](research/paralite)
-  * [並列パターン](research/parallelpattern)
 
 ## Deep Learning (深層学習)
 
