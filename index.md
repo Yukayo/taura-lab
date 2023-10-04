@@ -51,6 +51,8 @@ computers much more accessible to domain scientists.
 
 ## News (ニュース)
   * 2023 Oct. 1: 佐藤重幸が東京大学の助教から電気通信大学の准教授に転出しました．(Shigeyuki Sato has moved from Assistant Professor at the University of Tokyo to Associate Professor at the University of Electro-Communications)
+  * 2023 Jul. 28: 博士課程 椎名峻平が[2023年度山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)を受賞しました．
+  * 2023 Jun. 17: 博士課程 椎名峻平らの論文 "Itoyori: Reconciling Global Address Space and Global Fork-Join Task Parallelism" が [SC 2023](https://sc23.supercomputing.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [SC 2023](https://sc23.supercomputing.org/))
   * 2022 Dec. 8: 博士課程 李楽らの論文 "Associative Operator Precedence Parsing: A Method To Increase Data Parsing Parallelism" が [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/) に採択されました． (A paper by Le Li et al. has been accepted by [HPC Asia 2023](https://www.sc-asia.org/hpc-asia-2023/))
   * 2022 Oct. 23: 博士課程 李楽らの論文 "SimdFSM: An Adaptive Vectorization of Finite State Machines for Speculative Execution" が [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/) に採択されました． (A paper by Le Li et al. has been accepted by [PDCAT 2022](https://www.hpc.is.tohoku.ac.jp/pdcat2022/))
   * 2022 Jul. 28: 博士課程 椎名峻平らの論文 "Improving Cache Utilization of Nested Parallel Programs by Almost Deterministic Work Stealing" が [IEEE TPDS](https://www.computer.org/csdl/journal/td) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [IEEE TPDS](https://www.computer.org/csdl/journal/td))
