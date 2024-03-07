@@ -50,7 +50,9 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
-  * 2023 Nov. 14: 修士課程 小林亮太のJSSST 2023における発表が，学生奨励賞・優秀発表賞を受賞しました．(Ryota Kobayashi received Student Encouragement Award and Excellent Presentation Award in JSSST 2023)
+  * 2024 Mar. 7: 卒論生 両角颯のPPL 2024における登壇発表が，発表賞（一般の部）を受賞しました．(Sou Morozumi won the Presentation Award at PPL 2024)
+  * 2023 Nov. 14: 修士課程 小林亮太のJSSST 2023における発表が，学生奨励賞・優秀発表賞を受賞しました．(Ryota Kobayashi won the Student Encouragement Award and Excellent Presentation Award at JSSST 2023)
+  * 2023 Oct. 31: 卒業生 秀島宇音が，PRO-2022-2での発表について，[2023年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2023.html)を受賞しました．(Takato Hideshima won the IPSJ Computer Science Research Award for Young Scientists for his presentation at PRO-2022-2)
   * 2023 Oct. 1: 佐藤重幸が東京大学の助教から電気通信大学の准教授に転出しました．(Shigeyuki Sato has moved from Assistant Professor at the University of Tokyo to Associate Professor at the University of Electro-Communications)
   * 2023 Jul. 28: 博士課程 椎名峻平が[2023年度山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)を受賞しました．
   * 2023 Jun. 17: 博士課程 椎名峻平らの論文 "Itoyori: Reconciling Global Address Space and Global Fork-Join Task Parallelism" が [SC 2023](https://sc23.supercomputing.org/) に採択されました． (A paper by Shumpei Shiina et al. has been accepted by [SC 2023](https://sc23.supercomputing.org/))
