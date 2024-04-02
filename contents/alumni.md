@@ -9,7 +9,7 @@ nav_exclude: true
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
 |---|---|---|---|---|
-|Visiting Faculty|[Shigeyuki SATO](https://satoshigeyuki.github.io/)|佐藤 重幸|sato|:jp:|
+|Visiting Faculty (Assistant Professor until 2023 autumn)|[Shigeyuki SATO](https://satoshigeyuki.github.io/)|佐藤 重幸|sato|:jp:|
 |Doctoral Course Student|[Shumpei SHIINA](https://sshiina.gitlab.io)|椎名 峻平 |shiina|:jp:|
 |Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
 |Undergraduate Student|So MOROZUMI|両角 颯|morozumi|:jp:|
