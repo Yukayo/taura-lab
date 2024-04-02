@@ -5,6 +5,21 @@ nav_exclude: true
 ---
 
 # Taura Laboratory's Alumni
+## 2024 spring
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Doctoral Course Student|[Shumpei SHIINA](https://sshiina.gitlab.io)|椎名 峻平 |shiina|:jp:|
+|Master Course Student|Ryota KOBAYASHI|小林 亮太|koba|:jp:|
+|Undergraduate Student|So MOROZUMI|両角 颯|morozumi|:jp:|
+|Undergraduate Student|Haruki NISHII|西井 遥紀|sitianos|:jp:|
+
+## 2024 autumn
+
+||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
+|---|---|---|---|---|
+|Assistant Professor |[Shigeyuki SATO](https://satoshigeyuki.github.io/)|佐藤 重幸|sato|:jp:|
+
 ## 2023 spring
 
 ||Name (Given FAMILY)|名前 (姓 名)|Account|Nationality|
