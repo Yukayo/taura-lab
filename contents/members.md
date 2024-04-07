@@ -22,6 +22,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Shohei WATANABE|渡邊 梢平|shohei|:jp:|
 |Master Course Student|Shuhao CUI|崔 書豪|syogou|:cn:|
 |Undergraduate Student|Junichiro TAKAHASHI|高橋 淳一郎|superhotdogcat|:jp:|
+|Undergraduate Student|Luna SUGIYAMA|杉山 月渚|sugi|:jp:|
 
 
 ## Past Members
