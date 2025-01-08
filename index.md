@@ -50,7 +50,7 @@ computers much more accessible to domain scientists.
   * 東大情報基盤センター広報誌[Digital Life vol 31. 2018.9](https://www.itc.u-tokyo.ac.jp/DigitalLife/vol31/Digital%20Life%20Vol31.pdf)の巻頭言. 教員の仕事や情報基盤センターの仕事について. 
 
 ## News (ニュース)
-  * 2024 Dec. 12: 修士課程 利根悠司らの論文 "ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity" が [AI2ASE @AAAI 2025](https://ai-2-ase.github.io/) に採択されました． (A paper by Yuji Tone et al. has been accepted by [AI2ASE @AAAI 2025](https://ai-2-ase.github.io/))
+  * 2024 Dec. 12: 修士課程 利根悠司らの論文 "ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity" が [AI2ASE 2025](https://ai-2-ase.github.io/) に採択されました． (A paper by Yuji Tone et al. has been accepted by [AI2ASE 2025](https://ai-2-ase.github.io/))
   * 2024 Jun. 26: 卒業生 椎名峻平が，2023-HPC-190での発表について，[2024年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2024.html)を受賞しました．(Shumpei Shiina won the IPSJ Computer Science Research Award for Young Scientists for his presentation at 2023-HPC-190)
   * 2024 Mar. 21: 博士課程 椎名峻平の博士論文 "Task Parallelism at Scale: Locality-Aware Scheduling and Global Address Space (局所性に配慮したスケジューリングと大域アドレス空間による大規模タスク並列処理)" が情報理工学系研究科 研究科長賞に選ばれました． (Shumpei Shiina received a Dean's award from the Graduate School of Information Science and Technology.)
   * 2024 Mar. 7: 卒論生 両角颯のPPL 2024における登壇発表が，発表賞（一般の部）を受賞しました．(Sou Morozumi won the Presentation Award at PPL 2024)
