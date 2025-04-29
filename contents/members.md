@@ -22,6 +22,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Junichiro TAKAHASHI|高橋 淳一郎|superhotdogcat|:jp:|
 |Master Course Student|Yuima TAKESHIMA|竹嶋 唯真|yuima|:jp:|
 |Master Course Student|Mitsuru HATANO|波多野 充|tano|:jp:|
+|Bachelor Course Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
 
 ## Past Members
 
