@@ -25,6 +25,7 @@ Each member's e-mail address is _account_ [at] eidos.ic.i.u-tokyo.ac.jp.
 |Master Course Student|Mitsuru HATANO|波多野 充|tano|:jp:|
 |Bachelor Course Student|Yuri TAKIGAWA|瀧川 雄理|takigawa|:jp:|
 |Bachelor Course Student|[Yoshihiro IZAWA](https://www.omusubiy.com/)|井澤 慶広|izawa|:jp:|
+|Bachelor Course Student|Yuki MAEDA|前田 優希|maeda|:jp:|
 |Research Student|Mato Alejandro|マト アレハンドロ|couci|:ad:|
 
 ## Past Members
